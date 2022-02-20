@@ -67,6 +67,10 @@ Law - Char, Choo
 2. If chaos gains ascendency THEN each player pick territory to become ruined
 3. Suggested house rule :- Player with lowest total gang value choose who they fight (TBD)
 
+## House Rules
+
+1. For xp gain in scenarios shooting people into terrain and taking them out counts for shooting attacks
+
 ## Combat Rules
 
 From page 213 in All_rules
