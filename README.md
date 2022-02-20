@@ -3,7 +3,7 @@
 ## Our Campaign
 
 Chaos - Dave, Slack\
-Nutral - Me, Charles\
+Nutral - Pete, Charles\
 Law - Char, Choo\
 
 ## Campaign Rules
@@ -70,6 +70,12 @@ Law - Char, Choo\
 ## House Rules
 
 1. For xp gain in scenarios shooting people into terrain and taking them out counts for shooting attacks
+   1. Agreed with Char, Choo, Dave, Pete
+   2. Agreed because Char is all about knocking people back
+2. Neutral can secret vote
+   1. TBD
+3. Player with lowest total gang value choose who they fight
+   1. TBD
 
 ## Combat Rules
 
