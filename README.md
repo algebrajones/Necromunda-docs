@@ -22,9 +22,8 @@ Law - Char, Choo\
   * Random scenario each fight, there's a table in the Rules section
 * Tactics cards
   * Scenrio rules detail what you can do with them
-  * use the tactics cards from house of book (where available)
-    * TODO: Char will have some rules that Dave seems to be making up as he's going along!
-    * Need to be house ruled?
+  * use the tactics cards from house of book
+    * If no house book use standard cards
 * Tracking on discord?
 
 ### Rules
@@ -64,19 +63,18 @@ Law - Char, Choo\
 
 #### End of the Week
 
-1. Total chaos and law wins
-   1. suggested house rule :- Neutral can secret vote (TBD)
+1. Total wins from chaos factions and law factions (pg 81 Dark Uprinsing core book)
+   1. Neutral are always the opposite of the faction they are fighting
+   2. If both sides are the same faction then roll-off d6 winning side is their alliance or picks if neutral
 2. If chaos gains ascendency THEN each player pick territory to become ruined
-3. Suggested house rule :- Player with lowest total gang value choose who they fight (TBD)
 
 ## House Rules
 
 1. Re-equip from post battle actions can be done in pre-battle actions to allow folks to spend xp/creds if they need to leave early
-2. For xp gain in scenarios shooting people into terrain and taking them out counts for shooting attacks
+2. Start of week can re-equip people with items gained, Choo can use stash on gene smithing
+3. For xp gain in scenarios shooting people into terrain and taking them out counts for shooting attacks
    1. Agreed with Char, Choo, Dave, Pete
    2. Agreed because Char is all about knocking people back
-3. Neutral can secret vote
-   1. TBD
 4. Player with lowest total gang value choose who they fight
    1. TBD
 
