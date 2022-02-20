@@ -23,8 +23,9 @@ Law - Char, Choo\
 * Tactics cards
   * Scenrio rules detail what you can do with them
   * use the tactics cards from house of book (where available)
-    * TODO: Char will have some rules that Dave seems to be making up as he's going along! Need to be house ruled?
-* Tracking on discord? TBD
+    * TODO: Char will have some rules that Dave seems to be making up as he's going along!
+    * Need to be house ruled?
+* Tracking on discord?
 
 ### Rules
 
@@ -50,13 +51,14 @@ Law - Char, Choo\
          1. The gang needs to have had a chance to rescue them (run scenario)
       3. Special actions
       4. Scavenge (Damnation)
-   2. Rosta updates (pg 70)
+   2. Rosta updates (pg )
       1. Delete dead/retiring
          1. Champions can set up etc
       2. Re-equip step
          1. Hire
          2. Buy/Sell equipment
             1. sell = value - d6x10 min 5 loss
+      3. Redistribute equipment
    3. Can maybe choose to go to the trade post TBD: on when we allow this
       1. should be balanced - e.g. everyone gets to go after x scenarios
 
@@ -69,12 +71,13 @@ Law - Char, Choo\
 
 ## House Rules
 
-1. For xp gain in scenarios shooting people into terrain and taking them out counts for shooting attacks
+1. Re-equip from post battle actions can be done in pre-battle actions to allow folks to spend xp/creds if they need to leave early
+2. For xp gain in scenarios shooting people into terrain and taking them out counts for shooting attacks
    1. Agreed with Char, Choo, Dave, Pete
    2. Agreed because Char is all about knocking people back
-2. Neutral can secret vote
+3. Neutral can secret vote
    1. TBD
-3. Player with lowest total gang value choose who they fight
+4. Player with lowest total gang value choose who they fight
    1. TBD
 
 ## Combat Rules
