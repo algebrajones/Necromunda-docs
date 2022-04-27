@@ -2,9 +2,9 @@
 
 ## Our Campaign
 
-* Chaos - Dave, Slack??
-* Neutral - Me, Charles
-* Law - Char, Choo
+* Chaos - Dave, Slack\
+* Neutral - Me, Charles\
+* Law - Char, Choo\
 
 ## Campaign Rules
 
@@ -22,9 +22,9 @@
   * Random scenario each fight, there's a table in the Rules section
 * Tactics cards
   * Scenrio rules detail what you can do with them
-  * use the tactics cards from house of book (where available)
-    * TODO: Char will have some rules that Dave seems to be making up as he's going along! Need to be house ruled?
-* Tracking on discord? TBD
+  * use the tactics cards from house of book
+    * If no house book use standard cards
+* Tracking on discord?
 
 ### Rules
 
@@ -50,22 +50,33 @@
          1. The gang needs to have had a chance to rescue them (run scenario)
       3. Special actions
       4. Scavenge (Damnation)
-   2. Rosta updates (pg 70)
+   2. Rosta updates (pg )
       1. Delete dead/retiring
          1. Champions can set up etc
       2. Re-equip step
          1. Hire
          2. Buy/Sell equipment
             1. sell = value - d6x10 min 5 loss
+      3. Redistribute equipment
    3. Can maybe choose to go to the trade post TBD: on when we allow this
       1. should be balanced - e.g. everyone gets to go after x scenarios
 
 #### End of the Week
 
-1. Total chaos and law wins
-   1. suggested house rule :- Neutral can secret vote (TBD)
+1. Total wins from chaos factions and law factions (pg 81 Dark Uprinsing core book)
+   1. Neutral are always the opposite of the faction they are fighting
+   2. If both sides are the same faction then roll-off d6 winning side is their alliance or picks if neutral
 2. If chaos gains ascendency THEN each player pick territory to become ruined
-3. Suggested house rule :- Player with lowest total gang value choose who they fight (TBD)
+
+## House Rules
+
+1. Re-equip from post battle actions can be done in pre-battle actions to allow folks to spend xp/creds if they need to leave early
+2. Start of week can re-equip people with items gained, Choo can use stash on gene smithing
+3. For xp gain in scenarios shooting people into terrain and taking them out counts for shooting attacks
+   1. Agreed with Char, Choo, Dave, Pete
+   2. Agreed because Char is all about knocking people back
+4. Player with lowest total gang value choose who they fight
+   1. TBD
 
 ## Combat Rules
 
