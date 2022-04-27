@@ -67,6 +67,7 @@
    1. Neutral are always the opposite of the faction they are fighting
    2. If both sides are the same faction then roll-off d6 winning side is their alliance or picks if neutral
 2. If chaos gains ascendency THEN each player pick territory to become ruined
+3. No house favours (because Char can't access them)
 
 ## House Rules
 
