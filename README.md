@@ -2,9 +2,9 @@
 
 ## Our Campaign
 
-Chaos - Dave, Slack\
-Nutral - Pete, Charles\
-Law - Char, Choo\
+* Chaos - Dave, Slack\
+* Neutral - Me, Charles\
+* Law - Char, Choo\
 
 ## Campaign Rules
 
